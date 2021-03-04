@@ -1,0 +1,39 @@
+
+What's a 9 letter word that starts with P, ends with P, and has a third P somewhere inside it?
+
+So the puzzle is not impossible, but how can we solve it without being clever?  Write a Python script!
+
+Come ThXXXXXXXXX
+
+and find out how to use Python to access text, use lists and use if-then statements!  And hopefully the answer to the riddle 
+
+No experience in Python is necessary
+
+
+
+puzzle from @HaggardHawks, HH brainteaser time with @bbcnewcastle
+ @LisaShawRadio tweeted on 7:01 AM · Jan 21, 2021
+
+
+
+More puzzles that you can use with Python
+
+Dec 31, 2020
+QUIZ isn't the only word that starts with Q and ends with Z—what's the other one?
+
+
+Dec 10, 2020
+Give us an 8 letter dictionary word that contains an A, B, C, D, E and an F.
+
+
+Dec 17, 2020
+Give us a suitably Christmassy word that could come next here:
+
+BEERMATS
+CHEERFUL
+CAREERED
+PIONEERS
+?
+
+
+
